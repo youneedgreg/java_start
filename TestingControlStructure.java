@@ -1,4 +1,3 @@
-package dalton;
 import java.util.Scanner;
 public class TestingControlStructure {
     public static void main(String[] args) throws Exception{

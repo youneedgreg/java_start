@@ -1,5 +1,3 @@
-package spring2025;
-
 import java.util.Scanner;
 
 /**
